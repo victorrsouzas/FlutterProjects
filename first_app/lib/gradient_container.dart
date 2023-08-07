@@ -22,7 +22,10 @@ class GradientContainer extends StatelessWidget {
     return Container(
       decoration: BoxDecoration(
         gradient: LinearGradient(
-            colors: [color1, color2], begin: startAlignment, end: endAligment),
+          colors: [color1, color2],
+          begin: startAlignment,
+          end: endAligment,
+        ),
       ),
       child: const Center(
         child: DiceRoller(),
