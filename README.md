@@ -16,6 +16,14 @@ Atualmente, o repositório conta com os seguintes projetos:
 
 3. **Lista de Tarefas:** Um aplicativo de lista de tarefas que demonstra como gerenciar estados locais, interações com o usuário e persistência de dados.
 
+4. **Lista de Refeições:** Um aplicativo de lista de refeições que demonstra como gerenciar estados locais, interações com o usuário, filtros e persistência de dados.
+   
+5. **Lista de Compras:** Um aplicativo de lista de compras que demonstra incluir dados usando metodos de POST e visualização usando o GET.
+
+6. **Adicionando Lugares:** Um aplicativo que demonstra inclusão de lugares favoritos com foto e localização usando API do Google Maps.
+
+7. **Chat:** Um aplicativo que demonstra um chat usando as aplicações do Firebase.
+
 
 ## Como Usar
 
